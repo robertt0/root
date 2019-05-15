@@ -1,0 +1,2 @@
+# root
+termux root
